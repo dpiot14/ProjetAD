@@ -19,9 +19,15 @@ Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire,
 ## To do list
 - Notebook R : (finir partie I) transcrire partie 2 ACP
 - mettre à jours graph boxplot
-- ACP : vérification hypothèses : étude corrélations (graphes, disques), etude des dimensions suppérieures à 3
-        calcul des erreurs/résidus
-        affichage des nouvelles variables sur carte 
+- ACP : 
+    * Hypothèses : rédiger pour les dernières composantes, faire une analyse globale.
+    * Vérification hypothèses : 
+	- rédiger/mieux présenter le début de l'étude des corrélations
+	- étude des corrélations avec la variable en altitude pour chaque composante
+	- créer des variables pour chaque/certaines heures de la journée (avec moyenne),  avec les moyennes journalières,... et étudier les corrélations avec les premières composantes (pourquoi pas tester des "courbes" de corrélations)
+	- etude des dimensions supérieures à 3 : ajouter d'une variable pour la dim4? 
+        - calcul des erreurs/résidus
+        - affichage des nouvelles variables sur carte 
 - Diagramme heure station 6h altitude : ajouter carte pour mettre en avant d'éventuelles corrélations avec des lieux stratégiques de Paris (graphiques à rajouter en dessous : peut être un seul graphique sur trois su rune carte permet de mettre en avant les idées principales ?) 
 - Diagramme Etude de la temporalité du chargement moyen au cours de la semaine : rajouter une analyse sur les différences de hauteurs de pics observés entre le début de semaine (lundi/mardi) et la fin de semaine (jeudi/vendredi)
 - ACP : développer les interprétations
