@@ -33,6 +33,8 @@ Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire,
 - ACP : développer les interprétations
 - ACP : faire le graphe des corrélations
 
+- Interprétations : pour la dim 4 : automatiser test altitude et appliquer aux autres dim
+
 Suite du plan  
 III- Etude des possibilités de classification
 IV- Interprétation et comparaison des résultats 
