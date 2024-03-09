@@ -17,25 +17,10 @@ Du point de vue de l'analyse de données, les individus étudiés sont les stati
 Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire, nous réaliserons une analyse descriptive de nos données dans une première partie. Dans un second temps, nous verrons s'il est possible d'en réuire la dimension. Puis nous éttudirons les possibilités de classifications des données. Enfin, nous interprèterons et comparerons nos résultats avant de présenter nos conclusions.
 
 ## To do list
-- Notebook R : (finir partie I) transcrire partie 2 ACP
-- mettre à jours graph boxplot
-- ACP : 
-    * Hypothèses : rédiger pour les dernières composantes, faire une analyse globale.
-    * Vérification hypothèses : 
-	- rédiger/mieux présenter le début de l'étude des corrélations
-	- étude des corrélations avec la variable en altitude pour chaque composante
-	- créer des variables pour chaque/certaines heures de la journée (avec moyenne),  avec les moyennes journalières,... et étudier les corrélations avec les premières composantes (pourquoi pas tester des "courbes" de corrélations)
-	- etude des dimensions supérieures à 3 : ajouter d'une variable pour la dim4? 
-        - calcul des erreurs/résidus
-        - affichage des nouvelles variables sur carte 
+- Notebook R : Changer les interprétations en fonction de l'odre des graphiques, explliquer pourquoi l'ordre peut être différent de Python, màj l'interprétation 4 qui a été modifiée sur Python
+
 - Diagramme heure station 6h altitude : ajouter carte pour mettre en avant d'éventuelles corrélations avec des lieux stratégiques de Paris (graphiques à rajouter en dessous : peut être un seul graphique sur trois su rune carte permet de mettre en avant les idées principales ?) 
-- Diagramme Etude de la temporalité du chargement moyen au cours de la semaine : rajouter une analyse sur les différences de hauteurs de pics observés entre le début de semaine (lundi/mardi) et la fin de semaine (jeudi/vendredi)
-- ACP : développer les interprétations
-- ACP : faire le graphe des corrélations
+- Comparer les méthodes de classification.
+- Les classes ne sont pas numérotées pareil, ça pose des problèmes pour la comparaison
 
-- Interprétations : pour la dim 4 : automatiser test altitude et appliquer aux autres dim
-
-Suite du plan  
-III- Etude des possibilités de classification
-IV- Interprétation et comparaison des résultats 
 V- Conclusion 
