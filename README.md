@@ -23,4 +23,6 @@ Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire,
 - Comparer les méthodes de classification.
 - Les classes ne sont pas numérotées pareil, ça pose des problèmes pour la comparaison
 
+- Pour le clustering : https://bokeh.org/ 
+
 V- Conclusion 
