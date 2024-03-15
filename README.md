@@ -22,6 +22,7 @@ Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire,
 - Diagramme heure station 6h altitude : ajouter carte pour mettre en avant d'éventuelles corrélations avec des lieux stratégiques de Paris (graphiques à rajouter en dessous : peut être un seul graphique sur trois su rune carte permet de mettre en avant les idées principales ?) 
 - Comparer les méthodes de classification.
 - Les classes ne sont pas numérotées pareil, ça pose des problèmes pour la comparaison
+- Représentation du K-means sur plusieurs plans factoriels différents (voir machine Learning tp HAR)
 
 - Pour le clustering : https://bokeh.org/ 
 
