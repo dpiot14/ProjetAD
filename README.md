@@ -1,4 +1,4 @@
-# ProjetAD
+# Projet Analyse de Données
 
 ## Principe du projet : 
 Ce projet en Analyse de données à pour objectif d'étudier un jeu de données sur les chargements des stations de Velib dans la ville de Paris sur une période d'une semaine entre le 2 et le 7 septembre.
@@ -15,10 +15,3 @@ Un second jeu de données contient les coordonnées (logitude et latitude) assoc
 Du point de vue de l'analyse de données, les individus étudiés sont les stations. Il y a 168 variables qui correspondent aux 168 heures d'une semaine.
 
 Au cours de ce projet, nous allons étudier ces jeux de données. Pour ce faire, nous réaliserons une analyse descriptive de nos données dans une première partie. Dans un second temps, nous verrons s'il est possible d'en réuire la dimension. Puis nous éttudirons les possibilités de classifications des données. Enfin, nous interprèterons et comparerons nos résultats avant de présenter nos conclusions.
-
-## To do list
-- Notebook R : Changer les interprétations en fonction de l'odre des graphiques, explliquer pourquoi l'ordre peut être différent de Python, màj l'interprétation 4 qui a été modifiée sur Python
-
-- otebook Python : Première partie : dire 3 mots sur les déplacements en vélos en fonction des quartiers
-
-V- Conclusion 
